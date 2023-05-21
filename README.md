@@ -2,7 +2,7 @@
 
 "ANTI META" by Zoom coming to all platforms soon | This is what I used to create the teasers from instagram
 
-[!sample]((https://github.com/jventura1738/anti-meta-tracklist-visualizer/blob/master/sample_run.gif))
+![sample]((https://github.com/jventura1738/anti-meta-tracklist-visualizer/blob/master/sample_run.gif))
 
 ## If you wanna try it:
 
